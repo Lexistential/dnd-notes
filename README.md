@@ -1,2 +1,2 @@
-# dnd-notes
-Notes for d&amp;d campaign
+# D&D Notes
+Notes for d&amp;d
