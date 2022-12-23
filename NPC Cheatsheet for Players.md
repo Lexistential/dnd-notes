@@ -14,8 +14,8 @@ Palebank Village (starting village):
 	- Friend of Urgon's who is managing his belongings after his death
 - **Liel-Tethwick Family**
 	- **Fenton** and **Irven** (both *he/him*, humans), and their two daughters:
-		   - **Honor** (*she/her*), red tiefling
-		   - **Magic** (*she/her*), purple tiefling
+		- **Honor** (*she/her*), red tiefling
+		- **Magic** (*she/her*), purple tiefling
 	- Encountered on the road to Palebank by Dr. Neepus and Gwyn
 	- Traded for a vial of Frigid Woe from Hulil Lutan, which subsequently infected the entire family.
 	- They were saved by the Baetles when they sent the cures back.
