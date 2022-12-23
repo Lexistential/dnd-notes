@@ -8,12 +8,12 @@
 		- This bubble is the same as, or at least resembles, the bubble Antelis was discovered in
 		- Dr. Neepus felt the bubble and noted that it was glasslike, which prompted Vegas to punch it, dealing psychic damage to her.
 		- Dr. Neepus got some of the acid from the vat and poured it over the bubble to no effect.
-- On the nearby desk, Vegas found Despoina's technical journal (see Discord > Useful Resources for full pdf), which goes into some detail about the mechanisms behind the Beacon (the artifact) and Dunamis crystals she discovered in Molaesmyr, which seem to be connected in some way.
+- On the nearby desk, Vegas found Despoina's technical journal (see Lore Items for full pdf), which goes into some detail about the mechanisms behind the Beacon (the artifact) and Dunamis crystals she discovered in Molaesmyr, which seem to be connected in some way.
 	- Vegas successfully pocketed one of the Dunamis crystals that was on the desk
 - Getting everything they could from the technical journal and room, the team decided to head to Despoina's room on the Trebain estate, where they dramatically failed a stealth check and were immediately detected by Lord Darko Trebain, the father of Despoina and Kyriakos.
 	- Baetles quickly learned that Darko is an asshole and didn't really care about Despoina being trapped, but they were able to successfully appeal to his business sense (ie his hatred for the Uttolots) to strike a deal: he allows them to search the small house where Kyriakos and Despoina live, and they bring the artifact back.
 	- Kyriakos and the Baetles immediately made it clear to each other they have no intention of honoring that deal
-- Inside the house, they discovered another journal of Despoina's, this time a personal journal (see Discord > Useful Resources for full pdf), which gives more context to the information in the technical journal as well as details about Despoina's personal life.
+- Inside the house, they discovered another journal of Despoina's, this time a personal journal (see Lore Items for full pdf), which gives more context to the information in the technical journal as well as details about Despoina's personal life.
 	- She is friends with someone named Sarylis, seemingly another practiced in magic.
 	- She is in a relationship with someone named Ophelia from Shadycreek Run.
 	- She regularly brings up the phases of the moon, suggesting in several places that the waning of Catha and the increase in intensity of Ruidus causes her "terrors" of some kind and causes an inability to focus on her studies.
