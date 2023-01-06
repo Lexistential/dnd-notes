@@ -58,8 +58,23 @@ Shadycreek Run:
 	- Generally an asshole, especially towards Kyriakos and Despoina.
 - **Iokaste Trebain** (*she/her*), human
 	- Mother of Kyriakos and Despoina. Currently unmet.
+- **Ophelia Mardoon** †<sup>(presumed)</sup> (*she/her*), scourge aasimar
+	- Girlfriend of Despoina Trebain
+	- Healer at the Pious Den temple in Shadycreek Run
+	- Impaled and pulled into a rift after freeing Despoina from the stasis bubble. 
+
+Rexxentrum:
+- **Trent Ikithon** (*he/him*), human
+	- Professor at the Soltryce academy who was revealed by Dr. Neepus to be manipulating young wizards into becoming assassins for the Cerberus Assembly.
+	- Currently unmet
+
+The Many Hosts of Igrathad (Xhorhas):
+- **Sarylis** (*she/they*), drow
+	- Wizard friend of Despoina's
+	- Currently unmet
 
 Miscellaneous:
 - **Lilyana Cayd** (*she/her*), high elf lycan
 	- Member of the Claret Orders
 	- Baetles first encountered her in the Savalirwood, where they helped her clear out an ancient tower that contained some lost alchemical scrolls she wanted
+	- Met her again in Rexxentrum after teleporting from Shadycreek Run.
