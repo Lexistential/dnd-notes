@@ -66,6 +66,3 @@
 
 
 Sorry that this was super long, this ended up being an extremely information-dense session. If you need me to explain anything just send me a dm :)
-
-
-[[META]]
