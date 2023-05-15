@@ -100,5 +100,7 @@ Bourdelias Crew:
 
 
 ﹖ - Status unknown
+
 †   - Dead
+
 ‡   - Undead
