@@ -14,8 +14,8 @@ Palebank Village (starting village):
 	- Friend of Urgon's who is managing his belongings after his death
 - **Liel-Tethwick Family**
 	- **Fenton** and **Irven** (both *he/him*, humans), and their two daughters:
-		- **Honor** (*she/her*), red tiefling
-		- **Magic** (*she/her*), purple tiefling
+		   - **Honor** (*she/her*), red tiefling
+		   - **Magic** (*she/her*), purple tiefling
 	- Encountered on the road to Palebank by Dr. Neepus and Gwyn
 	- Traded for a vial of Frigid Woe from Hulil Lutan, which subsequently infected the entire family.
 	- They were saved by the Baetles when they sent the cures back.
@@ -44,37 +44,61 @@ Salsvault:
 	- Aeorian scientist who has been dutifully working away mixing the same 4 potions for over 800 years.
 
 Shadycreek Run:
-- **Jagoda Uttolot** (*she/her*), human
+- **Jagoda Uttolot** (*she/her*)﹖, human
 	- Hulil Lutan's fence, and the manager of the Uttolot family's fencing operation.
 	- Encountered the Baetles as they unsuccessfully went to the Uttolot estate to ask about the Beacon artifact.
 - **Kyriakos Trebain** (*he/him*), human
 	- Freed the Baetles from prison and cleared their records in exchange for helping him make some money in a tournament.
 - **Despoina Trebain** (*she/her*), human
 	- Magic researcher who is currently trapped in a stasis bubble.
-- **Tatia Trebain** (*she/her*), half-elf
+- **Tatia Trebain** (*she/her*)﹖, half-elf
 	- Half-sister of Kyriakos and Despoina. Currently unmet.
-- **Lord Darko Trebain** (*he/him*), human
+- **Lord Darko Trebain** (*he/him*) †, human
 	- Head of the Trebain family. 
 	- Generally an asshole, especially towards Kyriakos and Despoina.
-- **Iokaste Trebain** (*she/her*), human
+- **Iokaste Trebain** (*she/her*)﹖, human
 	- Mother of Kyriakos and Despoina. Currently unmet.
-- **Ophelia Mardoon** †<sup>(presumed)</sup> (*she/her*), scourge aasimar
-	- Girlfriend of Despoina Trebain
-	- Healer at the Pious Den temple in Shadycreek Run
-	- Impaled and pulled into a rift after freeing Despoina from the stasis bubble. 
+- **Jer'ron Kalyss** (*he/him*)﹖, sun elf
+	- Owner of Knave's Rations, a grocery store and small apartment in the South Clover.
+	- Originally from Jrusar
+	- Housed Vegas for a short time when she stayed in Shadycreek Run, and the Baetles for a day before they investigated the stasis bubble that Despoina was trapped in.
 
 Rexxentrum:
-- **Trent Ikithon** (*he/him*), human
-	- Professor at the Soltryce academy who was revealed by Dr. Neepus to be manipulating young wizards into becoming assassins for the Cerberus Assembly.
-	- Currently unmet
+- **Feldemar** (*he/him*), human
+	- Owner of Feldemar's Wares, a general store in the Court of Colors
+- **Gloria Greth** (she/her), human
+	- Old woman that owns Nature's Gifts, an herb and potion shop in the Court of Colors
 
-The Many Hosts of Igrathad (Xhorhas):
-- **Sarylis** (*she/they*), drow
-	- Wizard friend of Despoina's
-	- Currently unmet
 
-Miscellaneous:
-- **Lilyana Cayd** (*she/her*), high elf lycan
+The Claret Orders:
+- **Lilyana Cayd** (*she/her*), high elf lycan (werewolf)
 	- Member of the Claret Orders
 	- Baetles first encountered her in the Savalirwood, where they helped her clear out an ancient tower that contained some lost alchemical scrolls she wanted
-	- Met her again in Rexxentrum after teleporting from Shadycreek Run.
+- **Jorick LaMensch** (*he/him*), human lycan (werebear)
+	- Met during Nightwalker fight.
+- **Jette Brashan** (*she/her*), human lycan (werecrocodile)
+	- Met during Nightwalker fight.
+- **Jette Brashan** (*she/her*), human lycan (werecrocodile)
+	- Met during Nightwalker fight.
+- **Nalia Winterthorn** (*she/her*), halfling lycan (werepanther)
+	- Met during Nightwalker fight.
+
+Jigow:
+- **(name unknown)** (*they/them*), drow
+	- Acclaimed singer and harpist who was performing in Jigow when the Baetles first entered the city.
+	- Have not spoken to them.
+- **(name unknown)** (*he/him*), orc
+	- barkeep and owner of The Unbroken Tusk Inn
+	- not fond of Gol-K'lyang, that shit the goblins drink, but sells it anyway. business is business.
+- **Maggie Keeneyes** (*she/her*), ogre
+	- Fought Vegas in the fighting pit at the Unbroken Tusk Inn.
+
+Bourdelias Crew: 
+- Captain: **Luis "Dead" Davies** (*he/him*), human, not dead
+- Boatswain: **Elisa Smithe** (*she/her*), human
+- Cook: **Arron** (*he/him*), fire genasi
+
+
+﹖ - Status unknown
+†   - Dead
+‡   - Undead
