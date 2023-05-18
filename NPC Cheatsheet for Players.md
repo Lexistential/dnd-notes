@@ -92,11 +92,25 @@ Jigow:
 	- not fond of Gol-K'lyang, that shit the goblins drink, but sells it anyway. business is business.
 - **Maggie Keeneyes** (*she/her*), ogre
 	- Fought Vegas in the fighting pit at the Unbroken Tusk Inn.
+- **Ayo Jabe** (*she/her*), water genasi orc
+	- Leader of the Emerald Pact
+- **Galsariad Ardyth** (*he/him*), drow
+	- Member of the Emerald Pact
+- **Dermot Wurder** (*he/him*), goblin
+	- Member of the Emerald Pact
+- **Unmet** (?/?), ?
+	- Member of the Emerald Pact
+- **Colbu Kaz** (*he/him*), goblin
+	- Elder of Jigow
+- **Ushru** (*he/him*), orc
+	- Elder of Jigow
 
 Bourdelias Crew: 
-- Captain: **Luis "Dead" Davies** (*he/him*), human, not dead
+- Captain: **Luis "Dead" Davies** (*he/him*), human
+	- not dead
 - Boatswain: **Elisa Smithe** (*she/her*), human
 - Cook: **Arron** (*he/him*), fire genasi
+
 
 
 ﹖ - Status unknown
