@@ -22,5 +22,3 @@ That night, the Baetles had various dreams:
 - Dr. Neepus failed a Wisdom saving throw
 
 - The following morning, they attended a small ceremony and prepared for the final test in the Festival
-
-[[META]]
