@@ -24,6 +24,7 @@ Palebank Village (starting village):
 	- Owned a house just outside Palebank.
 	- Was infected with Frigid Woe at the time the Baetles met up and died from it while they were finding the cure.
 
+ 
 Syrinlya (port city in Eiselcross run by Uthodurn):
 - **Tima** (*she/her*), Tortle
 	- Elderly sailor of the Remorhaz, the icebreaker that took the Baetles to Eiselcross.
@@ -39,10 +40,12 @@ Syrinlya (port city in Eiselcross run by Uthodurn):
 - **Orvo Mustave** (*he/him*)
 	- Friend of Urgon Wenth's who went on expeditions with him before Urgon's death.
 
+ 
 Salsvault:
 - **Ferol Sal** ‡ (*he/him*), zombie
 	- Aeorian scientist who has been dutifully working away mixing the same 4 potions for over 800 years.
 
+ 
 Shadycreek Run:
 - **Jagoda Uttolot** (*she/her*)﹖, human
 	- Hulil Lutan's fence, and the manager of the Uttolot family's fencing operation.
@@ -63,12 +66,13 @@ Shadycreek Run:
 	- Originally from Jrusar
 	- Housed Vegas for a short time when she stayed in Shadycreek Run, and the Baetles for a day before they investigated the stasis bubble that Despoina was trapped in.
 
+ 
 Rexxentrum:
 - **Feldemar** (*he/him*), human
 	- Owner of Feldemar's Wares, a general store in the Court of Colors
 - **Gloria Greth** (she/her), human
 	- Old woman that owns Nature's Gifts, an herb and potion shop in the Court of Colors
-
+ 
 
 The Claret Orders:
 - **Lilyana Cayd** (*she/her*), high elf lycan (werewolf)
@@ -83,6 +87,7 @@ The Claret Orders:
 - **Nalia Winterthorn** (*she/her*), halfling lycan (werepanther)
 	- Met during Nightwalker fight.
 
+ 
 Jigow:
 - **Ereldra Icozrin** (*they/them*), drow
 	- Acclaimed singer and harpist who was performing in Jigow when the Baetles first entered the city.
@@ -105,12 +110,14 @@ Jigow:
 - **Ushru** (*he/him*), orc
 	- Elder of Jigow
 
+ 
 Bourdelias Crew: 
 - Captain: **Luis "Dead" Davies** (*he/him*), human
 	- not dead
 - Boatswain: **Elisa Smithe** (*she/her*), human
 - Cook: **Arron** (*he/him*), fire genasi
 
+ 
 Bazzoxan:
 - **Prolix Yusaf** (*he/him*), tiefling
 	- Member of the Allegiance of Allsight
@@ -125,10 +132,14 @@ Bazzoxan:
 	- Unknown administrative role in Bazzoxan
 	- Aided in combat and provided information and gold in exchange for your aid and potential cooperation in recovering an artifact
 
+ 
 Unknown: 
 - **The Apotheon** (*he/him*), human demigod
 	- Champion of 3 deities and previous owner of the Jewel of Three Prayers
 
+ 
 ﹖ - Status unknown
+ 
 †   - Dead
+ 
 ‡   - Undead
