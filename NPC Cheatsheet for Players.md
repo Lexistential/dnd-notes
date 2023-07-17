@@ -128,7 +128,7 @@ Bazzoxan:
 - **Verin** ? (*he/him*), drow
 	- Apparent leader of Bazzoxan
 	- Met during fight upon entering the city
-- **Lythrana** ? (she/they), drow dhampir 
+- **Lythrana** ? (_she/they_), drow dhampir 
 	- Unknown administrative role in Bazzoxan
 	- Aided in combat and provided information and gold in exchange for your aid and potential cooperation in recovering an artifact
 
