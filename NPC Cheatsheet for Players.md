@@ -78,13 +78,13 @@ The Claret Orders:
 	- Met during Nightwalker fight.
 - **Jette Brashan** (*she/her*), human lycan (werecrocodile)
 	- Met during Nightwalker fight.
-- **Jette Brashan** (*she/her*), human lycan (werecrocodile)
+- **Elias de Corvo** (*him/him*), elf lycan (wereraven)
 	- Met during Nightwalker fight.
 - **Nalia Winterthorn** (*she/her*), halfling lycan (werepanther)
 	- Met during Nightwalker fight.
 
 Jigow:
-- **(name unknown)** (*they/them*), drow
+- **Ereldra Icozrin** (*they/them*), drow
 	- Acclaimed singer and harpist who was performing in Jigow when the Baetles first entered the city.
 	- Have not spoken to them.
 - **(name unknown)** (*he/him*), orc
@@ -98,7 +98,7 @@ Jigow:
 	- Member of the Emerald Pact
 - **Dermot Wurder** (*he/him*), goblin
 	- Member of the Emerald Pact
-- **Unmet** (?/?), ?
+- **Irvan Wastewalker** (*he/him*), human
 	- Member of the Emerald Pact
 - **Colbu Kaz** (*he/him*), goblin
 	- Elder of Jigow
@@ -111,10 +111,24 @@ Bourdelias Crew:
 - Boatswain: **Elisa Smithe** (*she/her*), human
 - Cook: **Arron** (*he/him*), fire genasi
 
+Bazzoxan:
+- **Prolix Yusaf** (*he/him*), tiefling
+	- Member of the Allegiance of Allsight
+	- Spying on Aloysia Telfan and the actions of the Consortium of the Vermillion Dream in Bazzoxan
+- **Aloysia Telfan** (*she/her*), high elf
+	- Unmet
+	- Member of Consortium of the Vermillion Dream
+- **Verin** ? (*he/him*), drow
+	- Apparent leader of Bazzoxan
+	- Met during fight upon entering the city
+- **Lythrana** ? (she/they), drow dhampir 
+	- Unknown administrative role in Bazzoxan
+	- Aided in combat and provided information and gold in exchange for your aid and potential cooperation in recovering an artifact
 
+Unknown: 
+- **The Apotheon** (*he/him*), human demigod
+	- Champion of 3 deities and previous owner of the Jewel of Three Prayers
 
 ﹖ - Status unknown
-
 †   - Dead
-
 ‡   - Undead
