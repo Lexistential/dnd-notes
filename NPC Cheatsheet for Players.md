@@ -23,8 +23,8 @@ Palebank Village (starting village):
 	- Sister of Hulil Lutan
 	- Owned a house just outside Palebank.
 	- Was infected with Frigid Woe at the time the Baetles met up and died from it while they were finding the cure.
-
  
+
 Syrinlya (port city in Eiselcross run by Uthodurn):
 - **Tima** (*she/her*), Tortle
 	- Elderly sailor of the Remorhaz, the icebreaker that took the Baetles to Eiselcross.
@@ -39,13 +39,13 @@ Syrinlya (port city in Eiselcross run by Uthodurn):
 	- Runs the port in Syrinlya.
 - **Orvo Mustave** (*he/him*)
 	- Friend of Urgon Wenth's who went on expeditions with him before Urgon's death.
-
  
+
 Salsvault:
 - **Ferol Sal** ‡ (*he/him*), zombie
 	- Aeorian scientist who has been dutifully working away mixing the same 4 potions for over 800 years.
-
  
+
 Shadycreek Run:
 - **Jagoda Uttolot** (*she/her*)﹖, human
 	- Hulil Lutan's fence, and the manager of the Uttolot family's fencing operation.
@@ -65,8 +65,8 @@ Shadycreek Run:
 	- Owner of Knave's Rations, a grocery store and small apartment in the South Clover.
 	- Originally from Jrusar
 	- Housed Vegas for a short time when she stayed in Shadycreek Run, and the Baetles for a day before they investigated the stasis bubble that Despoina was trapped in.
-
  
+
 Rexxentrum:
 - **Feldemar** (*he/him*), human
 	- Owner of Feldemar's Wares, a general store in the Court of Colors
@@ -86,8 +86,8 @@ The Claret Orders:
 	- Met during Nightwalker fight.
 - **Nalia Winterthorn** (*she/her*), halfling lycan (werepanther)
 	- Met during Nightwalker fight.
-
  
+
 Jigow:
 - **Ereldra Icozrin** (*they/them*), drow
 	- Acclaimed singer and harpist who was performing in Jigow when the Baetles first entered the city.
@@ -109,37 +109,55 @@ Jigow:
 	- Elder of Jigow
 - **Ushru** (*he/him*), orc
 	- Elder of Jigow
-
  
+
 Bourdelias Crew: 
 - Captain: **Luis "Dead" Davies** (*he/him*), human
 	- not dead
 - Boatswain: **Elisa Smithe** (*she/her*), human
 - Cook: **Arron** (*he/him*), fire genasi
-
  
+
 Bazzoxan:
 - **Prolix Yusaf** (*he/him*), tiefling
 	- Member of the Allegiance of Allsight
 	- Spying on Aloysia Telfan and the actions of the Consortium of the Vermillion Dream in Bazzoxan
-- **Aloysia Telfan** (*she/her*), high elf
-	- Unmet
+- **Aloysia Telfan**† (*she/her*), high elf
+	- Met in the Prayer Site to Avandra
 	- Member of Consortium of the Vermillion Dream
-- **Verin** ? (*he/him*), drow
+- **Verin** (*he/him*), drow
 	- Apparent leader of Bazzoxan
 	- Met during fight upon entering the city
-- **Lythrana** ? (_she/they_), drow dhampir 
+- **Lythrana** (*she/they*), drow dhampir 
 	- Unknown administrative role in Bazzoxan
 	- Aided in combat and provided information and gold in exchange for your aid and potential cooperation in recovering an artifact
-
  
+
 Unknown: 
-- **The Apotheon** (*he/him*), human demigod
+- **Alyxian The Apotheon** (*he/him*), human demigod
 	- Champion of 3 deities and previous owner of the Jewel of Three Prayers
+ 
 
+Ank'Harel:
+- **Aradrine the Owl** (*she/her*), goliath
+	- Met at the First Eclipse Inn
+	- Leader of the Consortium
+- **Carliale Kroogan** (*he/him*), gnome
+	- Met at the Crystal Chateau
+	- Member of the Allegiance of Allsight, unknown role
+- **Satzrak Runestrider** (*he/him*), blue dragonborn
+	- Met at the First Eclipse Inn, which he owns and operates
+	- Connected to Consortium, exact relationship unknown
+- **Shira** (*she/her*), human
+	- Met at the shrine to the Moonweaver
+	- Young sorcerer taken in by Satzrak as help around the bar in exchange for helping her control her abilities
+- **Sky of a Sunset** (*she/her*), tabaxi
+	- Met at the First Eclipse Inn
+	- Bookkeeper for the Consortium
  
+
+
+
 ﹖ - Status unknown
- 
 †   - Dead
- 
 ‡   - Undead
